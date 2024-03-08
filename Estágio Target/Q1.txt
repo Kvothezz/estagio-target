@@ -1,0 +1,1 @@
+O valor da soma é dada por uma sequência de números triângulares. Tendo o índice como 13 basta somar 1+2+3+4+5+6...13 que dá 91.

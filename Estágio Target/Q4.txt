@@ -1,0 +1,6 @@
+Essa eu não consegui chegar na resposta sem procurar na internet. Achei interessante.
+
+A ideia é escolher qualquer interruptor e deixar ligado por alguns minutos e depois desligar. Após isso,deixar um segundo interruptor ligado e não mexer no terceiro e ir verificar. 
+Se a Lâmpada estiver apagada,mas quentem o primeiro interruport é o que liga.
+Se a Lâmpada estiver acesa,é o segundo interruptor.
+Se a Lâmpada estiver apagada,é o terceiro.

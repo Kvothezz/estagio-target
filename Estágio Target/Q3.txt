@@ -1,0 +1,11 @@
+a) 9  PA razão 2
+
+B) 128  PQ razão 2
+
+c) 49  Quadrados perfeitos em seqûencia
+
+d) 100 Quadrados dos pares
+
+e) 13 Fibonacci 
+
+f) 20 retrocedendo ficou + 1
